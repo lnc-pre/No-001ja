@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsSw94Sxk64=",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudioFile_1\\Rest_system\\Rest_system\\Rest_system.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\孙大鹏\\.nuget\\packages\\antdui\\2.1.8\\antdui.2.1.8.nupkg.sha512",
+    "C:\\Users\\孙大鹏\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
